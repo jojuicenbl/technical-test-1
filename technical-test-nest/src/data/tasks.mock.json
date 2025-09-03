@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Préparer la réunion de l'équipe BI",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Refactoriser le module d’authentification",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Créer les composants React pour la dashboard client",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Nettoyer les anciennes tables inutilisées dans BigQuery",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "Documenter l’API GraphQL",
+    "completed": false
+  }
+]
